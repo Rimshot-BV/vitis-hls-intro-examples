@@ -30,7 +30,7 @@ set_top loop_imperfect
 # Create a solution
 open_solution -reset solution1
 # Define technology and clock rate
-set_part  {xcvu9p-flga2104-2-i}
+set_part {xc7vx485tffg1157-1}
 create_clock -period 25
 
 # Set variable to select which steps to execute
